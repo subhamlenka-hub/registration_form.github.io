@@ -109,6 +109,10 @@ input[type="checkbox"]{
     background: rgb(43, 144, 226);
     border-radius: 5px;
 }
+.box .head h2{
+    color: rgb(211, 254, 255);
+    text-shadow: 2px 2px 5px rgb(8, 8, 8);
+}
 .desc h2{
     font-family: "Dank Mono", ui-monospace, monospace;
   font-size: 8mm;
